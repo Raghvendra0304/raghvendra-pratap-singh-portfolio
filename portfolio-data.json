@@ -1,0 +1,214 @@
+{
+  "settings": {
+    "name": "Raghvendra Pratap Singh",
+    "title": "Data Scientist & AI/ML Engineer",
+    "location": "India",
+    "summary": "A skilled Data Scientist and AI/ML Engineer with expertise in Python, data analysis, and machine learning.",
+    "profileImage": "https://image2url.com/r2/default/images/1770915587708-f809e2a5-f8d3-4b75-ae09-130d2cf86345.png"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Get In Touch",
+          "url": "mailto:raghvendra@6325gmail.com"
+        },
+        {
+          "text": "View Resume",
+          "url": "#"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "C++",
+          "Java",
+          "Power BI",
+          "Excel",
+          "Python",
+          "MySQL",
+          "Jupyter Notebook",
+          "Google Colab",
+          "Kaggle Notebook",
+          "Git",
+          "Github",
+          "Problem-Solving Skills",
+          "Team Player",
+          "Project Management",
+          "Adaptability"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": false,
+      "title": "Work Experience",
+      "items": []
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Featured Projects",
+      "items": [
+        {
+          "title": "Bangaluru Prediction House Price Duration",
+          "description": "Built an interactive Power BI dashboard analyzing Bengaluru housing trends, including location-wise pricing, types, and BHK distribution. Designed clear visualizations to help users explore real estate data and derive actionable insights for decision-making. Published the dashboard and encouraged user feedback to refine metrics, enhance usability, and expand analytical depth.",
+          "tags": [
+            "Power BI",
+            "Data Analysis",
+            "Real Estate"
+          ],
+          "previewUrl": null,
+          "repoUrl": "https://github.com/Raghvendra0304"
+        },
+        {
+          "title": "AI Legal terms Explainer",
+          "description": "Defined the goal to build an AI-powered system that explains complex legal terms in simple, understandable language for students and non-legal users. Implemented a text-processing and NLP pipeline using Python, Scikit-learn/Transformers, spaCy, and custom prompt-engineering to classify terms, generate explanations, and improve readability. Improved user comprehension by X% and reduced explanation time by Y%, demonstrating measurable enhancement in clarity and accessibility.",
+          "tags": [
+            "AI",
+            "NLP",
+            "Python",
+            "Scikit-learn",
+            "Transformers",
+            "spaCy"
+          ],
+          "previewUrl": null,
+          "repoUrl": "https://github.com/Raghvendra0304"
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "Lovely Professional University",
+          "degree": "Bachelor of Technology - Computer Science and Engineering; CGPA: 6.0",
+          "period": "August 2023 - Present"
+        },
+        {
+          "institution": "Gopal Saraswati Senior Secondary School",
+          "degree": "Intermediate; Percentage: 78%",
+          "period": "April 2020 - March 2022"
+        },
+        {
+          "institution": "New Adarsh Public School",
+          "degree": "Matriculation; Percentage: 80%",
+          "period": "April 2018 - March 2020"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": true,
+      "title": "Achievements & Certifications",
+      "items": [
+        {
+          "title": "Mastering Generative AI & Generative AI Tools",
+          "description": "Infosys Springboard - August 2025"
+        },
+        {
+          "title": "Computational Theory: Language Principles & Finite Automata Theory",
+          "description": "Infosys Springboard - September 2025"
+        },
+        {
+          "title": "The Bits and Bytes of Computer Networking",
+          "description": "Coursera - April 2025"
+        },
+        {
+          "title": "Software Development Processes and Methodologies",
+          "description": "Coursera - December 2024"
+        },
+        {
+          "title": "Software Engineering: Implementation and Testing",
+          "description": "Coursera - October 2024"
+        },
+        {
+          "title": "Python, Flask Framework, and Django",
+          "description": "Udemy - June 2025"
+        },
+        {
+          "title": "Responsive Web Design",
+          "description": "freeCodeCamp - May 2025"
+        },
+        {
+          "title": "Object Oriented Programming by NeoColab (C++)",
+          "description": "December 2024"
+        },
+        {
+          "title": "Finalist (Top 6)",
+          "description": "Association of Indian Universities (AIU) - June 2025"
+        },
+        {
+          "title": "200+ DSA Problems with 130+ day active streak",
+          "description": "LeetCode - July 2025"
+        },
+        {
+          "title": "Finalist (Top 15)",
+          "description": "Smart India Hackathon (SIH) - December 2024"
+        },
+        {
+          "title": "Earned a 3-Star rating on HackerRank",
+          "description": "Through consistent problem-solving across core algorithm challenges - August 2025"
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "raghvendra@6325gmail.com",
+      "phone": "+916386877717",
+      "location": "India"
+    },
+    "social": {
+      "enabled": true,
+      "items": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/in/raghv03",
+          "icon": "linkedin"
+        },
+        {
+          "platform": "github",
+          "url": "https://github.com/Raghvendra0304",
+          "icon": "github"
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "enabled": true,
+    "items": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Achievements",
+        "url": "#achievements"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 Raghvendra Pratap Singh. All rights reserved."
+  }
+}
